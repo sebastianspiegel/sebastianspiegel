@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebastianspiegel
-- 👀 I’m interested in front end development
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on accessible and inclusive projects
 - 📫 How to reach me https://www.linkedin.com/in/sebastian-spiegel/
