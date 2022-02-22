@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sebastianspiegel
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning TypeScript
+- 🌱 Junior full stack dev at gondola.cc
 - 💞️ I’m looking to collaborate on accessible and inclusive projects
 - 📫 How to reach me https://www.linkedin.com/in/sebastian-spiegel/
 
